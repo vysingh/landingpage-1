@@ -203,8 +203,8 @@
               "state": "ok"
             }
           },
-          "text1": "<b><br></b><br><br><br><br><b>LIÊN HỆ ĐẶT MÓN ĂN</b>",
-          "text2": "<div><br></div><div><br></div><div><br></div><div><br></div><div>Cô đầu bếp Miền Tây:</div><div>Chị Phượng \n</div><div>Phone: (+61) 437 646 648\n</div><div>Bankstown, NSW 2200, Australia \n</div><div>\n</div><div>\n</div><div>\n</div><div><br></div>",
+          "text1": "<b><br></b><br><b>LIÊN HỆ ĐẶT MÓN ĂN</b><br><b><br></b><br>Cô đầu bếp Miền Tây:\n<br>Chị Phượng\n<br>Phone: (+61) 437 646 648\n<br>Bankstown, NSW 2200, Australia<b><br></b>",
+          "text2": "<div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div><br></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
