@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.6",
     "siteFonts": [],
-    "uniqCompNum": 1,
+    "uniqCompNum": 2,
     "versionPublish": "4.10.6"
   },
   "pages": {
@@ -83,6 +83,34 @@
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOÀNH THÁNH MIỀN TÂY</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "ĐÔI NÉT",
+          "caption": "Bằng kinh nghiệm thực tế kết hợp với bí quyết gia truyền trong chế biến và pha trôn gia vị để có thể làm ra những món đặc sản dân dã Việt Nam &nbsp;như Hoành Thánh, Há cảo, Chả giò rế, Chả giò chay... cùng nhiều món ăn nhanh dân giã khác. Hoành Thánh Miền Tây tự hào về cung cách phục vụ cũng như chất lượng sản phẩm",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1"
         }
       ]
     }
