@@ -76,11 +76,12 @@
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "",
-              "title": ""
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOÀNH THÁNH MIỀN TÂY</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOÀNH THÁNH MIỀN TÂY</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-0"
         },
