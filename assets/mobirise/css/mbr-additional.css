@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
+#dropdown-menu-2btn-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-0 .navbar-brand a {
+  font-size: 17px;
+}
+#dropdown-menu-2btn-0 .nav .link,
+#dropdown-menu-2btn-0 .dropdown-item {
+  font-size: 1.2em;
+  color: #000000;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#dropdown-menu-2btn-0 .navbar,
+#dropdown-menu-2btn-0 .dropdown-menu {
+  background: #f1c050;
+}
+#dropdown-menu-2btn-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-0 .dropdown-menu a:hover,
+#dropdown-menu-2btn-0 .dropdown-menu a:focus {
+  background: #efb93d;
+}
+#dropdown-menu-2btn-0 .navbar-toggler {
+  color: #000000;
+}
